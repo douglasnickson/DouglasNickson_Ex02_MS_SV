@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Quartus/16.0
+vbcd_7segments
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+!s110 1480036046
+!i10b 1
+!s100 ADAm[lX@hP<Z<JUQo@>QG0
+I:gX1<J[@nRbaI48mR_1N63
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!s105 bcd_7segments_sv_unit
+S1
+Z2 dC:/Users/dougl/Google Drive/PEM/SystemVerilog/Exercicio02
+w1480015002
+8C:/Users/dougl/Google Drive/PEM/SystemVerilog/Exercicio02/bcd_7segments.sv
+FC:/Users/dougl/Google Drive/PEM/SystemVerilog/Exercicio02/bcd_7segments.sv
+L0 1
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z4 !s108 1480036045.000000
+!s107 C:/Users/dougl/Google Drive/PEM/SystemVerilog/Exercicio02/bcd_7segments.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/dougl/Google Drive/PEM/SystemVerilog/Exercicio02/bcd_7segments.sv|
+!i113 1
+Z5 o-work work -sv
+vtb_segment7
+R0
+!s110 1480036045
+!i10b 1
+!s100 DQCPzLFmKo55d=SVbmW8[0
+I<T_Re0NWW6BH?D2EC`5_U3
+R1
+!s105 tb_segment7_sv_unit
+S1
+R2
+w1480035985
+8C:/Users/dougl/Google Drive/PEM/SystemVerilog/Exercicio02/tb_segment7.sv
+FC:/Users/dougl/Google Drive/PEM/SystemVerilog/Exercicio02/tb_segment7.sv
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/dougl/Google Drive/PEM/SystemVerilog/Exercicio02/tb_segment7.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/dougl/Google Drive/PEM/SystemVerilog/Exercicio02/tb_segment7.sv|
+!i113 1
+R5
